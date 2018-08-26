@@ -12,4 +12,8 @@
  *
  *= require_tree .
  *= require_self
+ #verify-pin, #staus-box {
+    display: none;
+}
  */
+ 
